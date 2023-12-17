@@ -17,8 +17,6 @@ Blue Bank is designed to revolutionize your banking experience, providing a comp
 ## Features
 
 - **QR Code Scanning:** Seamlessly scan QR codes for efficient transactions.
-- **Real-time Balance:** Stay updated on your account balance in real-time.
-- **Secure Authentication:** Utilize advanced authentication methods for account security.
 - **Transaction History:** Access and review your transaction history with ease.
 - **Mobile Banking Excellence:** Perform various banking operations directly from your mobile device.
 - **User-friendly Interface:** Enjoy a clean and intuitive interface for a smooth user experience.
